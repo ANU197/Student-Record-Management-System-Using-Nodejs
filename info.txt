@@ -1,6 +1,5 @@
 npm install express
 
-youtube.com/watch?v=6FOq4cUdH8k
 
 npm install admin-bro admin-bro-expressjs
 
