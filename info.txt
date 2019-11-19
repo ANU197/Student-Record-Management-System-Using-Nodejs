@@ -4,3 +4,7 @@ npm install express-session cookie-parser
 
 
 npm install bcryptjs connect-flash ejs express express-ejs-layouts express-session mongoose passport passport-local nodemon
+
+https://www.youtube.com/watch?v=WxhFq64FQzA
+
+
