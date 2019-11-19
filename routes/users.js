@@ -68,6 +68,7 @@ router.post('/register', (req, res) => {
                        name,
                        email,
                        password,
+                       gender,
                        father,
                        address,
                        mobile
