@@ -35,6 +35,10 @@ router.post('/register', (req, res) => {
         errors.push({ msg: 'Password atleast should be 6 characters'});
 
     }
+     if(mobile.length != 10)
+    {
+        errors.push({ msg: 'Mobile Number Must Contain 10 digits'});
+    }
     if(errors.length > 0){
        res.render('register', {
            errors,
