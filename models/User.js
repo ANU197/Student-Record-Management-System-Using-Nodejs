@@ -17,6 +17,10 @@ const UserSchema = new mongoose.Schema({
     type: Date,
     default: Date.now
   },
+  gender:{
+    type: String,
+    required:true
+  },
   father: {
     type: String,
     required: true
