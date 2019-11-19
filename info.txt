@@ -6,4 +6,4 @@ npm install admin-bro admin-bro-expressjs
 npm install express-session cookie-parser
 
 
-npm i bcryptjs connect-flash ejs express express-ejs-layouts express-session mongoose passport passport-local nodemon
+npm install bcryptjs connect-flash ejs express express-ejs-layouts express-session mongoose passport passport-local nodemon
