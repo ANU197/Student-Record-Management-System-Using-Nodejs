@@ -1,7 +1,7 @@
 {
   "name": "it-assignment",
   "version": "1.0.0",
-  "description": "this is the It Lab Assignment",
+  "description": "It Lab Assignment",
   "main": "index.js",
   "scripts": {
     "start": "nodemon app.js",
