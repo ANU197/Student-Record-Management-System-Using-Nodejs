@@ -7,4 +7,6 @@ npm install bcryptjs connect-flash ejs express express-ejs-layouts express-sessi
 
 https://www.youtube.com/watch?v=WxhFq64FQzA
 
+nohup node app.js & 
+
 
