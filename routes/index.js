@@ -10,6 +10,7 @@ router.get('/dashboard',ensureAuthenticated, (req, res) => res.render('dashboard
     father: req.user.father,
     address: req.user.address,
     mobile: req.user.mobile,
+    gender: req.user.gender,
 
 }));
 
