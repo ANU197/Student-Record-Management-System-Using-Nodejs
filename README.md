@@ -1,2 +1,2 @@
-# Student Record Management System Using Nodejs & ejs
+# Student Record Management System Using Nodejs, ejs and MongoDB. 
 
