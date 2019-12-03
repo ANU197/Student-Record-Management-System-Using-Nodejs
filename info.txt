@@ -9,4 +9,5 @@ https://www.youtube.com/watch?v=WxhFq64FQzA
 
 nohup node app.js & 
 
+http://ec2-18-219-12-207.us-east-2.compute.amazonaws.com:9000/
 
